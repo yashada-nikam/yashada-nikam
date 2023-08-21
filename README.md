@@ -13,7 +13,7 @@ I am a Graduate Data Science student at Indiana University Bloomington, proficie
 - 🔭 I’m currently working on Crisis Management for the Kelley School of Business. <br>
 - 👯 I’m looking to collaborate on Data science projects. <br>
 - 🤝 I’m looking for help with Business Analytics and Statistical Modelling. <br>
-- 🌱 I’m currently learning Business Econometrics. <br>
+- 🌱 I’m currently learning Coreference resolution. <br>
 - 💬 Ask me about Books, Cats, and the Universe <br>
 - 📫 How to reach me: www.linkedin.com/in/yashada-nikam <br>
 - 📊 Data Storytelling: https://public.tableau.com/app/profile/yashadanikam <br>
