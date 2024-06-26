@@ -1,7 +1,7 @@
 ### Why hello there, I'm Yashada👋
 
 <br>
-I've graduated from Indiana University Bloomington with a Master's degree in Data Science. I am proficient in data analysis and visualization, statistical modeling, and machine learning with a strong foundation in Python, R, and SQL.
+I graduated from Indiana University Bloomington with a Master's degree in Data Science in December 2023. I am proficient in data analysis and visualization, statistical modeling, and machine learning with a strong foundation in Python, R, and SQL.
 <br> <br>
 
 <img align="right" src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="230">
