@@ -10,7 +10,7 @@ I graduated from Indiana University Bloomington with a Master's degree in Data S
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5NGZmNWZiMmNlYjUwNTgxMzIzZDBmZTIwNThhNTc4OGY5NzdmNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2S9bs4uSqCqqA1VcO3/giphy.gif" width="50"> Behind Github - 
 
 
-- 🔭 I’m currently working on understanding factors affecting startups' funding for the Kelley School of Business. <br>
+- 🔭 I’m currently working on understanding sustainable fashion data. <br>
 - 👯 I’m looking to collaborate on Data science projects. <br>
 - 🤝 I’m looking for help with Business Analytics and Statistical Modelling. <br>
 - 🌱 I’m currently learning about the world of LLMs. <br>
