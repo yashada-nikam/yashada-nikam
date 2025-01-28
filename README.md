@@ -11,9 +11,9 @@ I graduated from Indiana University Bloomington with a Master's degree in Data S
 
 
 - 🔭 I’m currently working on understanding customer sentiments about sustainable fashion data. <br>
-- 👯 I’m looking to collaborate on Data science projects. <br>
-- 🤝 I’m looking for help with Business Analytics and Statistical Modelling. <br>
-- 🌱 I’m currently learning about the world of LLMs. <br>
+- 👯 I’m looking to collaborate on Data science and Machine Learning projects. <br>
+- 🤝 I’m looking for help with LLM, RAG. <br>
+- 🌱 I’m currently learning about the world of AI and LLMs. <br>
 - 💬 Ask me about Fashion, Books, Cats, and the Universe <br>
 - 📫 How to reach me: www.linkedin.com/in/yashada-nikam <br>
 - 📊 Data Storytelling: https://public.tableau.com/app/profile/yashadanikam <br>
